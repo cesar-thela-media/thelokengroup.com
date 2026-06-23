@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-red: #BE1E2D;
+  --brand-dark: #1A1A1A;
+}
+
+body {
+  color: var(--brand-dark);
+  font-family: var(--font-inter), Arial, sans-serif;
+}
