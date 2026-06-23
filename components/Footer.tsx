@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { MapPin, Phone, Mail } from "lucide-react";
 import { BRAND, ROUTES } from "@/lib/constants";
 
@@ -74,11 +75,15 @@ export default function Footer() {
           {/* Logo + contact */}
           <div className="lg:col-span-2">
             <div className="mb-8">
-              <div className="font-serif font-bold text-2xl tracking-widest text-white leading-tight">LOKEN</div>
-              <div className="text-[10px] tracking-[0.3em] text-white/80 font-sans">— GROUP —</div>
-              <div className="text-[8px] tracking-[0.28em] text-[#BE1E2D] font-sans mt-0.5">
-                KELLERWILLIAMS.
-              </div>
+              <a href="/" className="inline-block bg-white px-3 py-2">
+                <Image
+                  src="/logo.png"
+                  alt={BRAND.name}
+                  width={180}
+                  height={61}
+                  className="h-10 w-auto"
+                />
+              </a>
             </div>
 
             <div className="flex flex-col gap-3">

@@ -1,5 +1,6 @@
 "use client";
 import { useState, useRef, useEffect } from "react";
+import Image from "next/image";
 import { Menu, X, ChevronDown } from "lucide-react";
 import { BRAND, ROUTES } from "@/lib/constants";
 
@@ -104,10 +105,15 @@ export default function Navbar({ floating = false }: { floating?: boolean }) {
     <header className={`${floating ? "absolute" : "sticky"} top-0 left-0 right-0 z-50 bg-white border-b border-gray-100`}>
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between h-16 lg:h-20">
         {/* Logo */}
-        <a href="/" className="flex flex-col items-center leading-none select-none shrink-0">
-          <span className="font-serif font-bold text-xl lg:text-2xl tracking-widest text-[#1A1A1A]">LOKEN</span>
-          <span className="text-[10px] tracking-[0.3em] text-[#1A1A1A] font-sans font-medium -mt-0.5">— GROUP —</span>
-          <span className="text-[7px] tracking-[0.25em] text-[#BE1E2D] font-sans font-medium mt-0.5">KELLERWILLIAMS.</span>
+        <a href="/" className="shrink-0">
+          <Image
+            src="/logo.png"
+            alt={BRAND.name}
+            width={180}
+            height={61}
+            className="h-10 lg:h-12 w-auto"
+            priority
+          />
         </a>
 
         {/* Desktop Nav */}
