@@ -1,8 +1,8 @@
-import PageLayout from "@/components/PageLayout";
+﻿import PageLayout from "@/components/PageLayout";
 import { GraduationCap, Star, Users, TrendingUp } from "lucide-react";
 
 export const metadata = {
-  title: "Houston Schools Guide | Best School Districts | The Loken Group",
+  title: "Houston Schools Guide | Best School Districts",
   description: "Compare top Houston school districts — Katy ISD, CISD, Cy-Fair, and more. Find homes in the best school zones.",
 };
 

@@ -1,9 +1,9 @@
-import PageLayout from "@/components/PageLayout";
+﻿import PageLayout from "@/components/PageLayout";
 import PageHeader from "@/components/PageHeader";
 import { SectionHeader } from "@/components/ThreeWaysToSell";
 
 export const metadata = {
-  title: "Client Reviews | The Loken Group",
+  title: "Client Reviews",
   description: "500+ verified 5-star reviews from Houston buyers and sellers. See what clients say about The Loken Group.",
 };
 

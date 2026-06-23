@@ -1,9 +1,9 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 import { Heart, Home, BookOpen, Utensils } from "lucide-react";
 
 export const metadata = {
-  title: "TLG Gives | Community | The Loken Group",
+  title: "TLG Gives | Community",
   description: "The Loken Group's community giving initiative — supporting Houston families through housing, education, and hunger relief.",
 };
 

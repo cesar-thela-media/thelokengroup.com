@@ -1,8 +1,8 @@
-import PageLayout from "@/components/PageLayout";
+﻿import PageLayout from "@/components/PageLayout";
 import { Play, Radio, Tv } from "lucide-react";
 
 export const metadata = {
-  title: "TV & Radio Ads | Media | The Loken Group",
+  title: "TV & Radio Ads | Media",
   description: "Watch and listen to The Loken Group's TV commercials and radio spots from across Greater Houston.",
 };
 

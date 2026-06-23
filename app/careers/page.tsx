@@ -1,10 +1,10 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 import { SectionHeader } from "@/components/ThreeWaysToSell";
 import { ArrowRight, MapPin, Clock } from "lucide-react";
 
 export const metadata = {
-  title: "Careers | The Loken Group",
+  title: "Careers",
   description: "Join one of Houston's best places to work. Explore open positions at The Loken Group.",
 };
 

@@ -1,8 +1,8 @@
-import PageLayout from "@/components/PageLayout";
+﻿import PageLayout from "@/components/PageLayout";
 import { ArrowRight, ExternalLink } from "lucide-react";
 
 export const metadata = {
-  title: "Press Releases | Media Coverage | The Loken Group",
+  title: "Press Releases | Media Coverage",
   description: "Latest news, press releases, and media coverage of The Loken Group — Houston's #1 real estate team.",
 };
 

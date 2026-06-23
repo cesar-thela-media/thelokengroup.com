@@ -1,11 +1,11 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 import LeadForm from "@/components/LeadForm";
 import StatsBar from "@/components/StatsBar";
 import { SectionHeader } from "@/components/ThreeWaysToSell";
 
 export const metadata = {
-  title: "Your Home Sold Guaranteed | The Loken Group",
+  title: "Your Home Sold Guaranteed",
   description: "We guarantee to sell your Houston home — or we'll buy it ourselves. 100% since 2014.",
 };
 

@@ -1,11 +1,11 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 import PageHeader from "@/components/PageHeader";
 import { SectionHeader } from "@/components/ThreeWaysToSell";
 import { ArrowRight } from "lucide-react";
 
 export const metadata = {
-  title: "Blog | The Loken Group",
+  title: "Blog",
   description: "Real estate tips, market updates, and Houston community news from The Loken Group.",
 };
 

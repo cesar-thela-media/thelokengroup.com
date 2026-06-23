@@ -1,8 +1,8 @@
-import PageLayout from "@/components/PageLayout";
+﻿import PageLayout from "@/components/PageLayout";
 import { ArrowRight } from "lucide-react";
 
 export const metadata = {
-  title: "Partners | The Loken Group",
+  title: "Partners",
   description: "Our trusted network of Houston home service partners — lenders, inspectors, contractors, and more.",
 };
 

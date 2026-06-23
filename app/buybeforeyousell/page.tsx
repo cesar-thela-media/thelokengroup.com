@@ -1,10 +1,10 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 import LeadForm from "@/components/LeadForm";
 import { X, CheckCircle, ArrowRight } from "lucide-react";
 
 export const metadata = {
-  title: "Buy Before You Sell | The Loken Group",
+  title: "Buy Before You Sell",
   description: "Buy your next home before selling your current one — move on your terms with The Loken Group.",
 };
 

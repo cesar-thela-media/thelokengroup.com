@@ -1,10 +1,10 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 import LeadForm from "@/components/LeadForm";
 import { Home, Ruler, TreePine, Award } from "lucide-react";
 
 export const metadata = {
-  title: "Build Your Dream Home | New Construction | The Loken Group",
+  title: "Build Your Dream Home | New Construction",
   description: "Build your custom dream home in Greater Houston with the #1 real estate team. We represent you at no cost.",
 };
 

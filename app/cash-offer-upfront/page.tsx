@@ -1,10 +1,10 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 import LeadForm from "@/components/LeadForm";
 import { ArrowRight } from "lucide-react";
 
 export const metadata = {
-  title: "Cash Offer Upfront | The Loken Group",
+  title: "Cash Offer Upfront",
   description: "Get a fair cash offer on your home — skip the showings and close on your timeline.",
 };
 

@@ -1,8 +1,8 @@
-import PageLayout from "@/components/PageLayout";
+﻿import PageLayout from "@/components/PageLayout";
 import { Gift, Users, DollarSign, CheckCircle } from "lucide-react";
 
 export const metadata = {
-  title: "Referral Rewards | The Loken Group",
+  title: "Referral Rewards",
   description: "Refer a friend, family member, or colleague to The Loken Group and earn a referral reward.",
 };
 

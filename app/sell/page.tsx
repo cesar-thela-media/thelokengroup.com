@@ -1,10 +1,10 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 import LeadForm from "@/components/LeadForm";
 import { ArrowRight, CheckCircle } from "lucide-react";
 
 export const metadata = {
-  title: "Sell Your Home | The Loken Group",
+  title: "Sell Your Home",
   description: "Sell your Houston home fast and for top dollar. Guaranteed Sale, Cash Offer, and Buy Before You Sell programs.",
 };
 

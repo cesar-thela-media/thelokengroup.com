@@ -1,8 +1,8 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 
 export const metadata = {
-  title: "Mission Statement | The Loken Group",
+  title: "Mission Statement",
   description: "Our mission: to sell your home for the most money in the least time — guaranteed.",
 };
 

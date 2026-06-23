@@ -1,8 +1,8 @@
-import PageLayout from "@/components/PageLayout";
+﻿import PageLayout from "@/components/PageLayout";
 import { MapPin, SlidersHorizontal, Search, Bed, Bath, DollarSign } from "lucide-react";
 
 export const metadata = {
-  title: "Houston Map Search | Search Homes by Map | The Loken Group",
+  title: "Houston Map Search | Search Homes by Map",
   description: "Search Greater Houston homes by map — filter by neighborhood, price, beds, and more.",
 };
 

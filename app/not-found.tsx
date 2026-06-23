@@ -1,8 +1,8 @@
-import PageLayout from "@/components/PageLayout";
+﻿import PageLayout from "@/components/PageLayout";
 import { BRAND, ROUTES } from "@/lib/constants";
 
 export const metadata = {
-  title: "Page Not Found | The Loken Group",
+  title: "Page Not Found",
 };
 
 export default function NotFound() {

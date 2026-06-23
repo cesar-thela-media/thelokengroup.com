@@ -1,9 +1,9 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 import { SectionHeader } from "@/components/ThreeWaysToSell";
 
 export const metadata = {
-  title: "Meet the Team | The Loken Group",
+  title: "Meet the Team",
   description: "26+ full-time professionals dedicated to delivering the best real estate experience in Greater Houston.",
 };
 

@@ -1,10 +1,10 @@
-import { MapPin, Phone, Mail, Clock } from "lucide-react";
+﻿import { MapPin, Phone, Mail, Clock } from "lucide-react";
 import PageLayout from "@/components/PageLayout";
 import PageHeader from "@/components/PageHeader";
 import LeadForm from "@/components/LeadForm";
 
 export const metadata = {
-  title: "Contact Us | The Loken Group",
+  title: "Contact Us",
   description: "Get in touch with The Loken Group — Houston's #1 real estate team.",
 };
 

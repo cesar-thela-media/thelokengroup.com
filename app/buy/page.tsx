@@ -1,10 +1,10 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 import LeadForm from "@/components/LeadForm";
 import { ArrowRight, MapPin, Bed, Bath, Square } from "lucide-react";
 
 export const metadata = {
-  title: "Buy a Home in Houston | The Loken Group",
+  title: "Buy a Home in Houston",
   description: "Find your dream home in Greater Houston with The Loken Group — local experts in The Woodlands, Katy, Sugar Land, and beyond.",
 };
 

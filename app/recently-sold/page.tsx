@@ -1,11 +1,11 @@
-import Image from "next/image";
+﻿import Image from "next/image";
 import PageLayout from "@/components/PageLayout";
 import PageHeader from "@/components/PageHeader";
 import { SectionHeader } from "@/components/ThreeWaysToSell";
 import { MapPin, Bed, Bath, Square } from "lucide-react";
 
 export const metadata = {
-  title: "Recently Sold | The Loken Group",
+  title: "Recently Sold",
   description: "Browse recently sold properties by The Loken Group across Greater Houston.",
 };
 
